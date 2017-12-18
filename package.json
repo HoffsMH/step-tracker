@@ -1,0 +1,18 @@
+{
+  "name": "step-tracker",
+  "version": "1.0.0",
+  "description": "step tracker display Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "scss",
+    "js",
+    "step",
+    "tracker",
+    "progress"
+  ],
+  "author": "Matt Hecker",
+  "license": "MIT"
+}
